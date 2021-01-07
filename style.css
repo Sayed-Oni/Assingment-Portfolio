@@ -1,0 +1,124 @@
+body {
+  font-family: "Lobster", cursive;
+  font-family: "Oswald", sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p {
+  color: dimgray;
+}
+
+.orange-highlight {
+  color: orange;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+.half-width img {
+  width: 100%;
+}
+
+.first-banner {
+  background-image: url("img/top-banner.png");
+  background-repeat: no-repeat;
+}
+
+section {
+  height: 500px;
+}
+
+.link-button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  text-decoration: none;
+  background-color: tomato;
+  padding: 15px 45px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.second-banner {
+  background-image: url("img/dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 600px;
+}
+
+.LATEST {
+  text-align: center;
+  padding: 50px;
+}
+
+.con {
+  justify-content: center;
+  display: flex;
+}
+.card {
+  font-size: 20px;
+  margin: 10px;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 10px;
+  width: 30%;
+}
+
+.container {
+  padding: 10px 20px;
+}
+
+.third-banner {
+  height: 800px;
+  background-image: url("img/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-color: whitesmoke;
+}
+
+.image-low {
+  width: 75%;
+  justify-content: center;
+}
+
+.fourth-banner {
+  background-image: url("img/image 6.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 50%;
+  height: 200px;
+  padding-top: ;
+}
+.purple-card {
+  padding: 30px;
+  justify-content: space-between;
+  display: flex;
+}
+
+footer {
+  padding: 50px;
+}
+.logo {
+  padding: 10px;
+}
+.link-butn {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  text-decoration: none;
+  background-color: tomato;
+  padding: 20px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
